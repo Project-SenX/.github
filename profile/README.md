@@ -4,6 +4,7 @@
 * [Munch Device Tree](https://github.com/Project-SenX/android_device_xiaomi_munch) (device/xiaomi/munch)
 * [Munch Vendor Tree](https://github.com/Project-SenX/android_vendor_xiaomi_munch) (vendorxiaomi/munch)
 * [Munch Firmware](https://github.com/Project-SenX/android_vendor_xiaomi_munch-firmware) (vendor/xiaomi/munch-firmware)
+* [Hardware Xiaomi](https://github.com/Project-SenX/android_hardware_xiaomi) (hardware/xiaomi)
 * [FusionX-Kernel](https://github.com/SenseiiX/fusionX_sm8250) (kernel/xiaomi/munch)
 
 ## Additionally
